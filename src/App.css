@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Tahoma, sans-serif;
+  direction: rtl;
+  background: #f4f6f9;
+}
+
+.app {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  color: #1e88e5;
+  font-size: 48px;
+}
+
+p {
+  font-size: 22px;
+  color: #444;
+}
+
+.buttons {
+  margin-top: 30px;
+}
+
+button {
+  padding: 12px 30px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  background: #1e88e5;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1565c0;
+}
